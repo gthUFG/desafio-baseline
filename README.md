@@ -20,13 +20,12 @@ d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 
 ```text
 .
-├── desafio-baseline/
-│   └── main.py
-├── config/
-│   └── config.env
-├── requirements.txt
-├── CONFIG_MAP.md
-└── README.md
+└── desafio-baseline/
+    └── codigozinho.py
+    └── config.env
+    └── requirements.txt
+    └── CONFIG_MAP.md
+    └── README.md
 ```
 
 ---
