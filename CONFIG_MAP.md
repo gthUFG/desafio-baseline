@@ -35,6 +35,8 @@ Arquivos principais do sistema escritos em Python.
 
 Local: /desafio-baseline
 
+Principal: codigozinho.py
+
 Versionamento:
 SemVer
 
@@ -48,8 +50,7 @@ Equipe de Desenvolvimento
 Descrição:
 Arquivos `.env`, `config.env` e configurações gerais do sistema.
 
-Local:
-`/config`
+Local: /desafio-baseline
 
 Versionamento:
 SemVer
