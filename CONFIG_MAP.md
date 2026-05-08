@@ -12,6 +12,9 @@ O projeto utiliza Versionamento Semântico (SemVer):
 
 MAJOR.MINOR.PATCH
 
+## Versão Atual
+
+v1.0.0
 
 ## Regras
 
